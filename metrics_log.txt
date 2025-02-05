@@ -1,0 +1,11 @@
+Question: list the beautifle girls in the entire series?
+RAG Response:  There are not many beautiful girls in the series. However, I can give you a list of some of them:
+1. Ginny Weasley
+2. Luna Lovegood
+3. Cho Chang
+4. Fleur Delacour (also known as Beauxbatons)
+5. Parvati Patil
+
+These are just a few examples of beautiful girls in the series.
+Metrics: {'retrieved_docs': 3, 'truncated_docs': 3, 'total_tokens': 'N/A', 'prompt_tokens': 'N/A', 'eval_time': 'N/A'}
+================================================================================
