@@ -1,0 +1,5 @@
+langchain
+langchain-community
+chromadb
+llama-cpp-python
+pdfminer.six
