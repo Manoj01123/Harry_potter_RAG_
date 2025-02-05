@@ -3,3 +3,4 @@ langchain-community
 chromadb
 llama-cpp-python
 pdfminer.six
+sentence-transformers
